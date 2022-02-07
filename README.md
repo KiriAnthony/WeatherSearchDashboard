@@ -21,5 +21,7 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 ## Link to Site
+https://kirianthony.github.io/WeatherSearchDashboard/
 
 ## ScreenShot
+![screenshot](https://user-images.githubusercontent.com/94418477/152727024-70b1bd5d-d64b-4e96-a238-a03c74887c7b.png)
