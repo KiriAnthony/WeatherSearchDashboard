@@ -9,8 +9,17 @@
 </head>
 <body>
     <header>Weather Dashboard</header>
-    <section><!--Search input and button--></section>
-    <section><!--Display Search history--></section>
-    <section><!--Display data--></section>
+    <section><!--Search input and button-->
+        <h2>Type a city to display current and future weather information</h2>
+        <input type="text" name="cityText" id="userInput">
+        <input type="button" value="Search">
+    </section>
+    <section><!--Display Search history-->
+        <div class="searchHistoryContainer"><!--Display array of searched years--></div>
+    </section>
+    <section><!--Display data-->
+        <div class="currentDataContainer"><!--Display Current Data--></div>
+        <div class="futureDataContainer"><!--Display Future Data--></div>
+    </section>
 </body>
 </html>
